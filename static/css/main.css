@@ -9,11 +9,11 @@ section h1{
   padding-top: 9px;
   margin: 0px;
 }
-.t_styling{
+.table{
   border: 1px solid #6F7687;
 }
 
-.t_head p{
+.table_head p{
   background-color: rgba(217, 228, 252, 1);
   padding: 2px 4px;
   font-size: 14px;
@@ -28,7 +28,7 @@ section h1{
   border-style: solid;
 }
 
-.t_body{
+.table_body{
   padding:10px 25px 10px;
   color: rgba(67, 78, 92, 1);
   font-weight: initial;
@@ -61,10 +61,12 @@ section h1{
 .company_logo{
   float:right;
 }
-.work_details{
+.work_details_title{
   margin-top: 20px;
 }
-
+.company_pod{
+  margin: 20px 0px;
+}
 .work_details {
   margin-left: 30px;
 }
@@ -72,14 +74,6 @@ section h1{
 .work_details_title{
   font-weight: bold;
   margin-bottom: 5px;
-}
-
-.l31_indent{
-  margin-left: 30px;
-}
-
-.l32_indent{
-  margin-left: 60px;
 }
 
 .puspa{
