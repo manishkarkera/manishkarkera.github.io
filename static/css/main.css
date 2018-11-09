@@ -77,15 +77,23 @@ section h1{
   font-weight: bold;
   margin-bottom: 5px;
 }
+
+.project{
+	margin-bottom: 20px;
+}
+
+.projectTitle > a {
+  margin-left: 5px;
+}
 .projectDesc , .contribution{
-  margin: 5px 15px 0px;
+  margin: 5px 0px 0px 30px;
 }
 
 /*.contribution{
   margin-left: 20px;
 }*/
 p.projectTitle::before{
-  content:'\2756 ';
+  content:'\2756';
 }
 
 p.projectDesc::before{
