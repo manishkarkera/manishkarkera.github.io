@@ -26,9 +26,13 @@ section h1{
   font-weight: bold;
 }
 
-.highlighter{
+.tech_highlighter{
   font-weight: bold;
   color: #c24b4b;
+}
+
+.highlighter{
+  font-weight: bold;
 }
 .double_line{
   height: 3px;
